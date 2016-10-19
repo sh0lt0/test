@@ -1,2 +1,5 @@
 # hello-world
-frst 1 for me
+
+I am Arjun
+I want to learn c++,c#.python,swift,ruby.
+For Android app development,web-development,ios app development.
