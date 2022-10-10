@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>RSS st</title>
+    <title>RSS Test</title>
     <link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>
-    <description>RSS Tes<link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>t Description</description>
+    <description>RSS Test De<h1>scripti</h1>onsd <link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link></description>
     <lastBuildDate>Fri, 12 Aug 2022 00:00:00 -0000</lastBuildDate>
     <item>
-        <title>RSS Tessdfsst</title>
+        <title>RSS Test</title>
         <link>http://example.com</link>
-        <description><link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>a post</description>
+        <description>a post</description>
         <author>user@example.com</author>
         <pubDate>Fri, 12 Aug 2022 00:00:00 -0000</pubDate>
     </item>
